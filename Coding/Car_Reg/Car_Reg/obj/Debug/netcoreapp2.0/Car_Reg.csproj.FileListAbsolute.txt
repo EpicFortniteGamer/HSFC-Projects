@@ -1,0 +1,11 @@
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\Car_Reg\Car_Reg\bin\Debug\netcoreapp2.0\Car_Reg.deps.json
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\Car_Reg\Car_Reg\bin\Debug\netcoreapp2.0\Car_Reg.runtimeconfig.json
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\Car_Reg\Car_Reg\bin\Debug\netcoreapp2.0\Car_Reg.runtimeconfig.dev.json
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\Car_Reg\Car_Reg\bin\Debug\netcoreapp2.0\Car_Reg.dll
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\Car_Reg\Car_Reg\bin\Debug\netcoreapp2.0\Car_Reg.pdb
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\Car_Reg\Car_Reg\obj\Debug\netcoreapp2.0\Car_Reg.csprojAssemblyReference.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\Car_Reg\Car_Reg\obj\Debug\netcoreapp2.0\Car_Reg.csproj.CoreCompileInputs.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\Car_Reg\Car_Reg\obj\Debug\netcoreapp2.0\Car_Reg.AssemblyInfoInputs.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\Car_Reg\Car_Reg\obj\Debug\netcoreapp2.0\Car_Reg.AssemblyInfo.cs
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\Car_Reg\Car_Reg\obj\Debug\netcoreapp2.0\Car_Reg.dll
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\Car_Reg\Car_Reg\obj\Debug\netcoreapp2.0\Car_Reg.pdb

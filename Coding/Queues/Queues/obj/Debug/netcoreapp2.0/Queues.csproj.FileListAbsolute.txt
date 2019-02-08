@@ -1,0 +1,4 @@
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\Queues\Queues\obj\Debug\netcoreapp2.0\Queues.csprojAssemblyReference.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\Queues\Queues\obj\Debug\netcoreapp2.0\Queues.csproj.CoreCompileInputs.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\Queues\Queues\obj\Debug\netcoreapp2.0\Queues.AssemblyInfoInputs.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\Queues\Queues\obj\Debug\netcoreapp2.0\Queues.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\FizzBuzzProject\FizzBuzzProject\bin\Debug\netcoreapp2.0\FizzBuzzProject.deps.json
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\FizzBuzzProject\FizzBuzzProject\bin\Debug\netcoreapp2.0\FizzBuzzProject.runtimeconfig.json
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\FizzBuzzProject\FizzBuzzProject\bin\Debug\netcoreapp2.0\FizzBuzzProject.runtimeconfig.dev.json
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\FizzBuzzProject\FizzBuzzProject\bin\Debug\netcoreapp2.0\FizzBuzzProject.dll
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\FizzBuzzProject\FizzBuzzProject\bin\Debug\netcoreapp2.0\FizzBuzzProject.pdb
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\FizzBuzzProject\FizzBuzzProject\obj\Debug\netcoreapp2.0\FizzBuzzProject.csprojAssemblyReference.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\FizzBuzzProject\FizzBuzzProject\obj\Debug\netcoreapp2.0\FizzBuzzProject.csproj.CoreCompileInputs.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\FizzBuzzProject\FizzBuzzProject\obj\Debug\netcoreapp2.0\FizzBuzzProject.AssemblyInfoInputs.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\FizzBuzzProject\FizzBuzzProject\obj\Debug\netcoreapp2.0\FizzBuzzProject.AssemblyInfo.cs
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\FizzBuzzProject\FizzBuzzProject\obj\Debug\netcoreapp2.0\FizzBuzzProject.dll
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\FizzBuzzProject\FizzBuzzProject\obj\Debug\netcoreapp2.0\FizzBuzzProject.pdb

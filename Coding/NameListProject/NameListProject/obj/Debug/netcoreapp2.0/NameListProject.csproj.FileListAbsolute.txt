@@ -1,0 +1,11 @@
+c:\users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\NameListProject\NameListProject\bin\Debug\netcoreapp2.0\NameListProject.deps.json
+c:\users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\NameListProject\NameListProject\bin\Debug\netcoreapp2.0\NameListProject.runtimeconfig.json
+c:\users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\NameListProject\NameListProject\bin\Debug\netcoreapp2.0\NameListProject.runtimeconfig.dev.json
+c:\users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\NameListProject\NameListProject\bin\Debug\netcoreapp2.0\NameListProject.dll
+c:\users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\NameListProject\NameListProject\bin\Debug\netcoreapp2.0\NameListProject.pdb
+c:\users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\NameListProject\NameListProject\obj\Debug\netcoreapp2.0\NameListProject.csprojAssemblyReference.cache
+c:\users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\NameListProject\NameListProject\obj\Debug\netcoreapp2.0\NameListProject.csproj.CoreCompileInputs.cache
+c:\users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\NameListProject\NameListProject\obj\Debug\netcoreapp2.0\NameListProject.AssemblyInfoInputs.cache
+c:\users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\NameListProject\NameListProject\obj\Debug\netcoreapp2.0\NameListProject.AssemblyInfo.cs
+c:\users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\NameListProject\NameListProject\obj\Debug\netcoreapp2.0\NameListProject.dll
+c:\users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\NameListProject\NameListProject\obj\Debug\netcoreapp2.0\NameListProject.pdb

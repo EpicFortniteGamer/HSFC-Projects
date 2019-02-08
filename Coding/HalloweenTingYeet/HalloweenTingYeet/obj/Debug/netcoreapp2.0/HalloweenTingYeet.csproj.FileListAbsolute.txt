@@ -1,0 +1,11 @@
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HalloweenTingYeet\HalloweenTingYeet\bin\Debug\netcoreapp2.0\HalloweenTingYeet.deps.json
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HalloweenTingYeet\HalloweenTingYeet\bin\Debug\netcoreapp2.0\HalloweenTingYeet.runtimeconfig.json
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HalloweenTingYeet\HalloweenTingYeet\bin\Debug\netcoreapp2.0\HalloweenTingYeet.runtimeconfig.dev.json
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HalloweenTingYeet\HalloweenTingYeet\bin\Debug\netcoreapp2.0\HalloweenTingYeet.dll
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HalloweenTingYeet\HalloweenTingYeet\bin\Debug\netcoreapp2.0\HalloweenTingYeet.pdb
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HalloweenTingYeet\HalloweenTingYeet\obj\Debug\netcoreapp2.0\HalloweenTingYeet.csprojAssemblyReference.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HalloweenTingYeet\HalloweenTingYeet\obj\Debug\netcoreapp2.0\HalloweenTingYeet.csproj.CoreCompileInputs.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HalloweenTingYeet\HalloweenTingYeet\obj\Debug\netcoreapp2.0\HalloweenTingYeet.AssemblyInfoInputs.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HalloweenTingYeet\HalloweenTingYeet\obj\Debug\netcoreapp2.0\HalloweenTingYeet.AssemblyInfo.cs
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HalloweenTingYeet\HalloweenTingYeet\obj\Debug\netcoreapp2.0\HalloweenTingYeet.dll
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HalloweenTingYeet\HalloweenTingYeet\obj\Debug\netcoreapp2.0\HalloweenTingYeet.pdb

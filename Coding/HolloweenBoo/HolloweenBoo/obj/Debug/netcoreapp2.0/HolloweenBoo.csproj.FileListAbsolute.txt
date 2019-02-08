@@ -1,0 +1,11 @@
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HolloweenBoo\HolloweenBoo\bin\Debug\netcoreapp2.0\HolloweenBoo.deps.json
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HolloweenBoo\HolloweenBoo\bin\Debug\netcoreapp2.0\HolloweenBoo.runtimeconfig.json
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HolloweenBoo\HolloweenBoo\bin\Debug\netcoreapp2.0\HolloweenBoo.runtimeconfig.dev.json
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HolloweenBoo\HolloweenBoo\bin\Debug\netcoreapp2.0\HolloweenBoo.dll
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HolloweenBoo\HolloweenBoo\bin\Debug\netcoreapp2.0\HolloweenBoo.pdb
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HolloweenBoo\HolloweenBoo\obj\Debug\netcoreapp2.0\HolloweenBoo.csprojAssemblyReference.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HolloweenBoo\HolloweenBoo\obj\Debug\netcoreapp2.0\HolloweenBoo.csproj.CoreCompileInputs.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HolloweenBoo\HolloweenBoo\obj\Debug\netcoreapp2.0\HolloweenBoo.AssemblyInfoInputs.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HolloweenBoo\HolloweenBoo\obj\Debug\netcoreapp2.0\HolloweenBoo.AssemblyInfo.cs
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HolloweenBoo\HolloweenBoo\obj\Debug\netcoreapp2.0\HolloweenBoo.dll
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\HolloweenBoo\HolloweenBoo\obj\Debug\netcoreapp2.0\HolloweenBoo.pdb

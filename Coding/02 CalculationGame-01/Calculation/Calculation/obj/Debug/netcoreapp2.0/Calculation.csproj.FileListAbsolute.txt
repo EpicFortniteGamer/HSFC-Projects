@@ -1,0 +1,33 @@
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.csprojAssemblyReference.cache
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.csproj.CoreCompileInputs.cache
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.AssemblyInfoInputs.cache
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.AssemblyInfo.cs
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame\Calculation\Calculation\bin\Debug\netcoreapp2.0\Calculation.deps.json
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame\Calculation\Calculation\bin\Debug\netcoreapp2.0\Calculation.runtimeconfig.json
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame\Calculation\Calculation\bin\Debug\netcoreapp2.0\Calculation.runtimeconfig.dev.json
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame\Calculation\Calculation\bin\Debug\netcoreapp2.0\Calculation.dll
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame\Calculation\Calculation\bin\Debug\netcoreapp2.0\Calculation.pdb
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.dll
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.pdb
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame-01\Calculation\Calculation\bin\Debug\netcoreapp2.0\Calculation.deps.json
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame-01\Calculation\Calculation\bin\Debug\netcoreapp2.0\Calculation.runtimeconfig.json
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame-01\Calculation\Calculation\bin\Debug\netcoreapp2.0\Calculation.runtimeconfig.dev.json
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame-01\Calculation\Calculation\bin\Debug\netcoreapp2.0\Calculation.dll
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame-01\Calculation\Calculation\bin\Debug\netcoreapp2.0\Calculation.pdb
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame-01\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.csprojAssemblyReference.cache
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame-01\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.csproj.CoreCompileInputs.cache
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame-01\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.AssemblyInfoInputs.cache
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame-01\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.AssemblyInfo.cs
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame-01\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.dll
+S:\Computing\3 Student Access - Read Only\computer-science-resources\mbr\BTEC\02 CalculationGame-01\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.pdb
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\02 CalculationGame-01\Calculation\Calculation\bin\Debug\netcoreapp2.0\Calculation.deps.json
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\02 CalculationGame-01\Calculation\Calculation\bin\Debug\netcoreapp2.0\Calculation.runtimeconfig.json
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\02 CalculationGame-01\Calculation\Calculation\bin\Debug\netcoreapp2.0\Calculation.runtimeconfig.dev.json
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\02 CalculationGame-01\Calculation\Calculation\bin\Debug\netcoreapp2.0\Calculation.dll
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\02 CalculationGame-01\Calculation\Calculation\bin\Debug\netcoreapp2.0\Calculation.pdb
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\02 CalculationGame-01\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.csprojAssemblyReference.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\02 CalculationGame-01\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\02 CalculationGame-01\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.AssemblyInfoInputs.cache
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\02 CalculationGame-01\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.AssemblyInfo.cs
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\02 CalculationGame-01\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.dll
+C:\Users\kw81323\OneDrive - Hereford Sixth Form College\Computer Science\Coding\02 CalculationGame-01\Calculation\Calculation\obj\Debug\netcoreapp2.0\Calculation.pdb
